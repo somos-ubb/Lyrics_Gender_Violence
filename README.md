@@ -1,13 +1,11 @@
-# Lyrics_Gender_Violence
-Corpus de letras de canciones en español etiquetadas con violencia de género
+# Corpus of Spanish song lyrics labeled for gender-based violence
 
-#### Carpeta code - Incluye Google Colab notebook usado para el fine-tuned BERT-based model (BETO) 
-#### Carpeta corpus - Incluye Corpus con canciones etiquetadas como {0:sin violencia basada en género; 1:con violencia basada en género}, incluye un set de archivos CSV utilizados para entrenamiento y test del modelo de clasificación.
+#### Code folder - Includes a Google Colab notebook used for the fine-tuned BERT-based model (BETO).  
+#### Corpus folder - Includes a corpus with songs labeled as {0: without gender-based violence; 1: with gender-based violence}. It also contains a set of CSV files used for training and testing the classification model.  
 
-#### ¿Cómo citar Corpus?
+# How to cite the corpus?
 Calbullanca Viluñir, R., Segura Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024). Corpus of song lyrics in Spanish labeled for gender-based violence against women (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13370289
 
- 
 
 [Grupo de Investigación SoMoS (SOftware MOdelling & Science)](https://dsi.face.ubiobio.cl/somos/)
 
