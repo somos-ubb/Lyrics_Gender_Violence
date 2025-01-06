@@ -1,4 +1,4 @@
-# Corpus of Spanish song lyrics labeled for gender-based violence
+# Corpus of Spanish song lyrics labeled for gender-based violence detection
 
 #### Code folder - Includes a Google Colab notebook used for the fine-tuned BERT-based model (BETO).  
 #### Corpus folder - Includes a corpus with songs labeled as {0: without gender-based violence; 1: with gender-based violence}. It also contains a set of CSV files used for training and testing the classification model.  
