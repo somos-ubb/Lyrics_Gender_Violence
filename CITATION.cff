@@ -1,10 +1,13 @@
 cff-version: 1.2.0
 message: If you use this data, please cite it as below.
 
-Segura-Navarrete, A., Martínez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). 
-somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) [Data set]. 
-Zenodo. [https://doi.org/10.5281/zenodo.18157160]
+-dataset: GBV_dataset1000
+Calbullanca Viluñir, R., Segura-Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024). Corpus of Song Lyrics in Spanish Labeled for Gender-Based Violence against Women (Version 1.0.0) [Data set].
+Zenodo. [https://doi.org/10.5281/zenodo.13370289]
 
+-dataset: GBV_dataset1400
+Segura-Navarrete, A., Martínez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) [Data set]. 
+Zenodo. [https://doi.org/10.5281/zenodo.18157160]
 
 title: "Lyrics_Gender_Violence dataset (dataset1400)"
 version: 1.0.1
