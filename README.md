@@ -22,34 +22,12 @@ References
 [3] Casanovas-Buliart, L., Alvarez-Cueva, P., & Castillo, C. (2024). Evolution over 62 years: an analysis of sexism in the lyrics of the most-listened-to songs in Spain. Cogent Arts &amp; Humanities, 11(1). https://doi.org/10.1080/23311983.2024.2436723
 
 ## How to cite the file located in the GBV_dataset1000 folder?
-@dataset{calbullanca_gender_violence_2024,
-  title        = {Corpus of Song Lyrics in Spanish Labeled for Gender-Based Violence against Women (GBV_dataset1000)},
-  author       = {Calbullanca Vilu{\~n}ir, Rodrigo and
-                  Segura-Navarrete, Alejandra and
-                  Vidal-Castro, Christian and
-                  Mart{\'i}nez-Araneda, Claudia},
-  year         = {2024},
-  version      = {1.0.0},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.13370289},
-  url          = {https://doi.org/10.5281/zenodo.13370289}
-}
-
+Calbullanca Viluñir, R., Segura-Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024).
+Corpus of Song Lyrics in Spanish Labeled for Gender-Based Violence against Women (Version 1.0.0) 
+Dataset. Zenodo. [https://doi.org/10.5281/zenodo.13370289]
 
 ## How to cite the file located in the GBV_dataset1400 release?
-@dataset{lyrics_gender_violence_2026,
-  title        = {Lyrics\_Gender\_Violence (GBV_dataset1400)},
-  author       = {Segura-Navarrete, Alejandra and
-                  Mart{\'i}nez-Araneda, Claudia and
-                  Vidal-Castro, Christian and
-                  G{\'o}mez-Meneses, Pedro},
-  year         = {2026},
-  version      = {1.0.0},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18157160},
-  url          = {https://github.com/somos-ubb/Lyrics_Gender_Violence},
-  note         = {Dataset released on January 5, 2026}
-}
+Segura-Navarrete, A., Martinez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18157160]
 
 
 [Grupo de Investigación SoMoS (SOftware MOdelling & Science)](https://dsi.face.ubiobio.cl/somos/)
