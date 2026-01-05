@@ -18,7 +18,7 @@ References
 
 [2] Gutiérrez, R., Segura Navarrete, A. A., Martínez-Araneda, C., & Vidal-Castro, C. (2024). Augmented DataSet [Data set]. Zenodo.https://doi.org/10.5281/zenodo.12802358
 
-[3] Laura Casanovas i Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). Evolution Over 62 Years: An analysis of sexism in the lyrics of the most-listened-to songs in Spain. Accepted for publication at Cogent Arts and Humanities, Taylor and Francis, 2024.
+[3] Casanovas-Buliart, L., Alvarez-Cueva, P., & Castillo, C. (2024). Evolution over 62 years: an analysis of sexism in the lyrics of the most-listened-to songs in Spain. Cogent Arts &amp; Humanities, 11(1). https://doi.org/10.1080/23311983.2024.2436723
 
 ## How to cite the file located in the Corpus1000 folder?
 Calbullanca Viluñir, R., Segura Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024). Corpus of song lyrics in Spanish labeled for gender-based violence against women (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13370289
