@@ -30,6 +30,7 @@ Segura-Navarrete, A., Martinez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C.
 somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) 
 [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18157160]
 
+Updated January 5, 2026
 
 [Grupo de Investigación SoMoS (SOftware MOdelling & Science)](https://dsi.face.ubiobio.cl/somos/)
 
