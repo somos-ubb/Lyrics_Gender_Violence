@@ -3,10 +3,7 @@
 #### Code folder
 Includes a Google Colab notebook ([https://github.com/somos-ubb/Lyrics_Gender_Violence/blob/main/code/BETO/model.ipynb]) used to generate a model adjusted to our purpose, gender-based violence against women. We use as a base the Spanish BERT model available at ([https://github. com/dccuchile/beto])
 ####  Corpus folder
-It includes GBV_dataset1000.csv, a corpus of 1,000 song lyrics, labeled as {0: without gender-based violence; 1: with gender-based violence}.
-
-#### Corpus folder and GBV_dataset1400 release
-It includes GBV_dataset1400_.csv, a corpus of 1,400 song lyrics, labeled as {0: without gender-based violence; 1: with gender-based violence}. Its construction was based on previous work and relabeled by a gender expert:
+It includes two versions of GBV_dataset: GBV_dataset1000.csv, a corpus of 1,000 song lyrics, labeled as {0: without gender-based violence; 1: with gender-based violence}, and GBV_dataset1400_.csv, a corpus of 1,400 song lyrics. Its construction was based on new examples collected and previous work relabeled by an expert in gender-based approaches:
 
 ##### Sources
 - GBV Spanish Corpus available at https://github.com/somos-ubb/Lyrics_Gender_Violence [1] from Corpus folder
