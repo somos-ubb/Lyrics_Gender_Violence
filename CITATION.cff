@@ -1,19 +1,9 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 
-@dataset{lyrics_gender_violence_2026,
-  title        = {Lyrics\_Gender\_Violence (dataset1400)},
-  author       = {Segura-Navarrete, Alejandra and
-                  Mart{\'i}nez-Araneda, Claudia and
-                  Vidal-Castro, Christian and
-                  G{\'o}mez-Meneses, Pedro},
-  year         = {2026},
-  version      = {1.0.1},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18157160},
-  url          = {https://github.com/somos-ubb/Lyrics_Gender_Violence},
-  note         = {Dataset released on January 5, 2026}
-}
+Segura-Navarrete, A., Martínez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). 
+somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) [Data set]. 
+Zenodo. [https://doi.org/10.5281/zenodo.18157160]
 
 
 title: "Lyrics_Gender_Violence dataset (dataset1400)"
