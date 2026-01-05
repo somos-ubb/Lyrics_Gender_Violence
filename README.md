@@ -7,7 +7,8 @@ It includes a corpus of 1000 song lyrics, labeled as {0: without gender-based vi
 
 #### Corpus1400 folder
 It includes a corpus of 1,400 song lyrics, labeled as {0: without gender-based violence; 1: with gender-based violence}. Its construction was based on previous work and relabeled by a gender expert:
-Sources
+
+#####Sources
 GBV Spanish Corpus available at https://github.com/somos-ubb/Lyrics_Gender_Violence [1] in Corpus100 folder
 Augmented DataSet available at https://github.com/somos-ubb/DataAugmentation [2]
 Sexism in the lyrics of the most listened to songs in Spain available at https://github.com/mscasanova/SexismInLyrics [3]
