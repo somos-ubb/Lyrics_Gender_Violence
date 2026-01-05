@@ -19,14 +19,14 @@ It includes GBV_dataset1400_.csv, a corpus of 1,400 song lyrics, labeled as {0: 
 
 [2] Gutiérrez, R., Segura Navarrete, A. A., Martínez-Araneda, C., & Vidal-Castro, C. (2024). Augmented DataSet [Data set]. Zenodo.https://doi.org/10.5281/zenodo.12802358
 
-[3] Casanovas-Buliart, L., Alvarez-Cueva, P., & Castillo, C. (2024). Evolution over 62 years: an analysis of sexism in the lyrics of the most-listened-to songs in Spain. Cogent Arts &amp; Humanities, 11(1). https://doi.org/10.1080/23311983.2024.2436723
+[3] Casanovas-Buliart, L., Álvarez-Cueva, P., & Castillo, C. (2024). Evolution over 62 years: an analysis of sexism in the lyrics of the most-listened-to songs in Spain. Cogent Arts &amp; Humanities, 11(1). https://doi.org/10.1080/23311983.2024.2436723
 
 ## How to cite the GBV_dataset1000 and GBV_dataset1400?
 Calbullanca Viluñir, R., Segura-Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024).
 Corpus of Song Lyrics in Spanish Labeled for Gender-Based Violence against Women (Version 1.0.0) 
 [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.13370289]
 
-Segura-Navarrete, A., Martinez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). 
+Segura-Navarrete, A., Martínez-Araneda, C., Quintana-Reyes, C., Vidal-Castro, C., & Gómez-Meneses, P. (2026). 
 somos-ubb/Lyrics_Gender_Violence: Gender-based violence DataSet (GBV_dataset1400) (1.0.1) 
 [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18157160]
 
