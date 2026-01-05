@@ -9,11 +9,12 @@ It includes a corpus of 1,000 song lyrics, labeled as {0: without gender-based v
 It includes a corpus of 1,400 song lyrics, labeled as {0: without gender-based violence; 1: with gender-based violence}. Its construction was based on previous work and relabeled by a gender expert:
 
 ##### Sources
-- GBV Spanish Corpus available at https://github.com/somos-ubb/Lyrics_Gender_Violence [1] from Corpus100 folder
+- GBV Spanish Corpus available at https://github.com/somos-ubb/Lyrics_Gender_Violence [1] from GBV_dataset1000 folder
 - Augmented DataSet available at https://github.com/somos-ubb/DataAugmentation [2]
 - Sexism in the lyrics of the most listened to songs in Spain available at https://github.com/mscasanova/SexismInLyrics [3]. In this case, we selected lyrics with content related to sexual harassment, rape, sexual assault, and physical violence, among others, against women. 
 
 References
+
 [1] Calbullanca Viluñir, R., Segura Navarrete, A., Vidal-Castro, C., & Martínez-Araneda, C. (2024). Corpus of song lyrics in Spanish labeled for gender-based violence against women (1.0.0) [Data set]. Zenodo.https://doi.org/10.5281/zenodo.13370289
 
 [2] Gutiérrez, R., Segura Navarrete, A. A., Martínez-Araneda, C., & Vidal-Castro, C. (2024). Augmented DataSet [Data set]. Zenodo.https://doi.org/10.5281/zenodo.12802358
